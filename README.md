@@ -1,9 +1,7 @@
 # _Proposed Policies for Combating Nutritional Deficiencies in Uganda_
 ### Project 4 Team Wiley
-
-**Members:** Noah Wadhwani, Chloe Roesslein, Saraya Danielsen, Maxwell Sapp, Nicole Aguilera, Aidan Gauper
-
-**Collaboration:** Github, Google Drive, Slack
+* **Members:** Noah Wadhwani, Chloe Roesslein, Saraya Danielsen, Maxwell Sapp, Nicole Aguilera, Aidan Gauper
+* **Collaboration:** Github, Google Drive, Slack
 
 ### Project Goals
 * Focusing on Uganda families in 2011
