@@ -6,6 +6,6 @@
 ### Project Goals
 * Focusing on Uganda families in 2011
 * How does demand increase with each individual child? (on average)
-* Analyze biggest nutritional deficiencies for Uganda children
+* Analyze biggest nutritional deficiencies for Ugandan children
 * Design two policies to address nutritional challenges
 * Determine costs of policy proposals and suggest who will supplement the costs
